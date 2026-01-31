@@ -330,7 +330,7 @@ export const PaymentPanel: React.FC<PaymentPanelProps> = ({ userCity, userDDD })
                    </div>
                    <h2 className="text-3xl font-black mb-2 text-gray-900">ACESSO LIBERADO!</h2>
                    <p className="text-gray-600 mb-8 text-center px-4 font-medium">Obrigado por respeitar o sigilo das nossas integrantes.</p>
-                   <a href="https://xgruposdeputaria.com/" target="_blank" className="w-full bg-[#16A349] text-white py-5 rounded-xl font-bold text-xl text-center shadow-2xl">
+                   <a href="https://wa.me/5566981183200?text=Oiiiie%20vida%20" target="_blank" className="w-full bg-[#16A349] text-white py-5 rounded-xl font-bold text-xl text-center shadow-2xl">
                      ACESSAR GRUPO AGORA 🔥
                    </a>
                 </div>
